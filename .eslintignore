@@ -1,0 +1,17 @@
+/build
+/node_modules/
+npm-debug.log
+/__tests__
+/blueprints
+webpack.config.babel.js
+webpack.config.common.js
+webpack.config.dev.js
+webpack.config.prod.js
+/vendor/
+/bower_components/
+/src/docs/assets
+/src/docs/style
+/scripts
+/dist
+/dist-server
+/config/webpack/dist

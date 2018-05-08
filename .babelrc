@@ -1,0 +1,21 @@
+{
+  "presets": [
+    [
+      "env"
+    ],
+    "stage-0",
+    "flow"
+  ],
+  "plugins": [
+    [
+      "transform-runtime",
+      {
+        "polyfill": false,
+        "regenerator": true
+      }
+    ],
+    "syntax-flow",
+    "transform-flow-strip-types",
+    "transform-class-properties"
+  ]
+}

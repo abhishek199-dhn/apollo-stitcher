@@ -1,0 +1,8 @@
+{
+  "app": {
+    "port": 5050
+  },
+  "gql": [
+    "https://commonservice-dev.deepintent.com/graphql"
+  ]
+}
